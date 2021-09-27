@@ -1,0 +1,10 @@
+C:\Users\Administrator\Source\Repos\ShopApi\ShopDatabase\bin\Debug\ShopDatabase.dacpac
+C:\Users\Administrator\Source\Repos\ShopApi\ShopDatabase\bin\Debug\ShopDatabase.dll
+C:\Users\Administrator\Source\Repos\ShopApi\ShopDatabase\bin\Debug\ShopDatabase.pdb
+C:\Users\Administrator\Source\Repos\ShopApi\ShopDatabase\obj\Debug\ShopDatabase.sqlproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\ShopApi\ShopDatabase\obj\Debug\Model.xml
+C:\Users\Administrator\Source\Repos\ShopApi\ShopDatabase\obj\Debug\refactor.xml
+C:\Users\Administrator\Source\Repos\ShopApi\ShopDatabase\obj\Debug\postdeploy.sql
+C:\Users\Administrator\Source\Repos\ShopApi\ShopDatabase\obj\Debug\predeploy.sql
+C:\Users\Administrator\Source\Repos\ShopApi\ShopDatabase\obj\Debug\ShopDatabase.dll
+C:\Users\Administrator\Source\Repos\ShopApi\ShopDatabase\obj\Debug\ShopDatabase.pdb

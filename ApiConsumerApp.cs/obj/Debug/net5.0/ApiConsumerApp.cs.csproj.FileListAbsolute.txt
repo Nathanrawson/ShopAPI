@@ -1,0 +1,16 @@
+C:\Users\Administrator\Source\Repos\ShopApi\ApiConsumerApp.cs\bin\Debug\net5.0\ApiConsumerApp.cs.exe
+C:\Users\Administrator\Source\Repos\ShopApi\ApiConsumerApp.cs\bin\Debug\net5.0\ApiConsumerApp.cs.deps.json
+C:\Users\Administrator\Source\Repos\ShopApi\ApiConsumerApp.cs\bin\Debug\net5.0\ApiConsumerApp.cs.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\ShopApi\ApiConsumerApp.cs\bin\Debug\net5.0\ApiConsumerApp.cs.runtimeconfig.dev.json
+C:\Users\Administrator\Source\Repos\ShopApi\ApiConsumerApp.cs\bin\Debug\net5.0\ApiConsumerApp.cs.dll
+C:\Users\Administrator\Source\Repos\ShopApi\ApiConsumerApp.cs\bin\Debug\net5.0\ref\ApiConsumerApp.cs.dll
+C:\Users\Administrator\Source\Repos\ShopApi\ApiConsumerApp.cs\bin\Debug\net5.0\ApiConsumerApp.cs.pdb
+C:\Users\Administrator\Source\Repos\ShopApi\ApiConsumerApp.cs\obj\Debug\net5.0\ApiConsumerApp.cs.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\ShopApi\ApiConsumerApp.cs\obj\Debug\net5.0\ApiConsumerApp.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Source\Repos\ShopApi\ApiConsumerApp.cs\obj\Debug\net5.0\ApiConsumerApp.cs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\ShopApi\ApiConsumerApp.cs\obj\Debug\net5.0\ApiConsumerApp.cs.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\ShopApi\ApiConsumerApp.cs\obj\Debug\net5.0\ApiConsumerApp.cs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\ShopApi\ApiConsumerApp.cs\obj\Debug\net5.0\ApiConsumerApp.cs.dll
+C:\Users\Administrator\Source\Repos\ShopApi\ApiConsumerApp.cs\obj\Debug\net5.0\ref\ApiConsumerApp.cs.dll
+C:\Users\Administrator\Source\Repos\ShopApi\ApiConsumerApp.cs\obj\Debug\net5.0\ApiConsumerApp.cs.pdb
+C:\Users\Administrator\Source\Repos\ShopApi\ApiConsumerApp.cs\obj\Debug\net5.0\ApiConsumerApp.cs.genruntimeconfig.cache

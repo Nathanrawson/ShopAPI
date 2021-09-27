@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ApiConsumerApp.cs/1.0.0": {
+        "runtime": {
+          "ApiConsumerApp.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiConsumerApp.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
