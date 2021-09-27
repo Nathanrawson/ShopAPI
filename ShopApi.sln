@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31710.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopApi", "ShopApi\ShopApi.csproj", "{9E1AEFB8-4BC8-4CFE-80DB-0C77A1D4E749}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQLFiles", "SQLFiles", "{741A9702-ED8F-4ABE-BBB8-B9CECD227B43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Schemas", "Schemas", "{65B6F70E-8739-4992-A534-46A252234E96}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Documents\SQL Server Management Studio\CreateProductAndCategoryTablesSchema.sql = ..\..\..\Documents\SQL Server Management Studio\CreateProductAndCategoryTablesSchema.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StoredProcedures", "StoredProcedures", "{03A52017-572B-4A2F-8B2A-DDB06FDFB164}"
+	ProjectSection(SolutionItems) = preProject
+		AddCategoryStoredProcedures.sql = AddCategoryStoredProcedures.sql
+		..\..\..\Documents\SQL Server Management Studio\AddProductsStoredProcedures.sql = ..\..\..\Documents\SQL Server Management Studio\AddProductsStoredProcedures.sql
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiConsumerApp.cs", "ApiConsumerApp.cs\ApiConsumerApp.cs.csproj", "{F570CBB8-6E5A-4E16-871F-BADC572B2C68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SeedDb", "SeedDb", "{307087D1-B676-4BF2-AD0E-F2C794DAE87A}"
+	ProjectSection(SolutionItems) = preProject
+		SeedCategories.sql = SeedCategories.sql
+		SeedProducts.sql = SeedProducts.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopUnitTests", "ShopUnitTests\ShopUnitTests.csproj", "{11857755-6146-46B2-82B4-86268279452F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E1AEFB8-4BC8-4CFE-80DB-0C77A1D4E749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1AEFB8-4BC8-4CFE-80DB-0C77A1D4E749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1AEFB8-4BC8-4CFE-80DB-0C77A1D4E749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1AEFB8-4BC8-4CFE-80DB-0C77A1D4E749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F570CBB8-6E5A-4E16-871F-BADC572B2C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F570CBB8-6E5A-4E16-871F-BADC572B2C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F570CBB8-6E5A-4E16-871F-BADC572B2C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F570CBB8-6E5A-4E16-871F-BADC572B2C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11857755-6146-46B2-82B4-86268279452F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11857755-6146-46B2-82B4-86268279452F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11857755-6146-46B2-82B4-86268279452F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11857755-6146-46B2-82B4-86268279452F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{65B6F70E-8739-4992-A534-46A252234E96} = {741A9702-ED8F-4ABE-BBB8-B9CECD227B43}
+		{03A52017-572B-4A2F-8B2A-DDB06FDFB164} = {741A9702-ED8F-4ABE-BBB8-B9CECD227B43}
+		{307087D1-B676-4BF2-AD0E-F2C794DAE87A} = {741A9702-ED8F-4ABE-BBB8-B9CECD227B43}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C24CB71-CD18-4D60-9DA2-1978373C56DF}
+	EndGlobalSection
+EndGlobal
