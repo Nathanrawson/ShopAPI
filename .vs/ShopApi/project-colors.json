@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9e1aefb8-4bc8-4cfe-80db-0c77a1d4e749": {
+      "ProjectGuid": "9e1aefb8-4bc8-4cfe-80db-0c77a1d4e749",
+      "DisplayName": "ShopApi",
+      "ColorIndex": 0
+    },
+    "11857755-6146-46b2-82b4-86268279452f": {
+      "ProjectGuid": "11857755-6146-46b2-82b4-86268279452f",
+      "DisplayName": "ShopUnitTests",
+      "ColorIndex": 1
+    },
+    "f570cbb8-6e5a-4e16-871f-badc572b2c68": {
+      "ProjectGuid": "f570cbb8-6e5a-4e16-871f-badc572b2c68",
+      "DisplayName": "ApiConsumerApp.cs",
+      "ColorIndex": 2
+    },
+    "03a52017-572b-4a2f-8b2a-ddb06fdfb164": {
+      "ProjectGuid": "03a52017-572b-4a2f-8b2a-ddb06fdfb164",
+      "DisplayName": "StoredProcedures",
+      "ColorIndex": 3
+    },
+    "65b6f70e-8739-4992-a534-46a252234e96": {
+      "ProjectGuid": "65b6f70e-8739-4992-a534-46a252234e96",
+      "DisplayName": "Schemas",
+      "ColorIndex": 4
+    },
+    "307087d1-b676-4bf2-ad0e-f2c794dae87a": {
+      "ProjectGuid": "307087d1-b676-4bf2-ad0e-f2c794dae87a",
+      "DisplayName": "SeedDb",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
